@@ -13,7 +13,7 @@ const Form = () => {
         <label>Subject</label>
         <input type="text"></input>
         <label>Message</label>
-        <textarea  rows="6" placeholder="Type your message here"> </textarea>
+        <textarea  rows="6" placeholder="Type your message here"></textarea>
             <button className="btn" type="submit">Submit</button>  
       </form>
     </div>
