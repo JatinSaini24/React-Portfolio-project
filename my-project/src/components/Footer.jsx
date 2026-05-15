@@ -12,23 +12,25 @@ const Footer = () => {
             <div className="location">
             <FaHome size={20} style={{color:"#fff", marginRight: "2rem"}}/>
               <div>
-                <p>123 Housing Society.</p>
-                <p>Bangladesh.</p>
+                <p>515/1 Garhi Mohalla, Rohtak.</p>
+                <p>India.</p>
               </div>
             </div>
             <div className="phone">
               <h4>  <FaPhone size={20} style={{color:"#fff", marginRight: "2rem"}}/>
-            1-2323-343-23</h4>
+            9817528928</h4>
             </div>     
             <div className="email">
         <h4> <FaMailBulk size={20} style={{color:"#fff", marginRight: "2rem"}}/>
-           info@gmail.com</h4>
+           jatinsaini6135@gmail.com</h4>
 
            </div>
         </div>   
         <div className="right">
-          <h4>About The Company </h4>
-          <p>This is me Fahimul kabir. CEO & Founder of Tech2etc. I enjoy discussing new projects and design challenges.</p>
+        <h4>About Me</h4>
+        <p>
+          I am Jatin Saini, a passionate MERN Stack Developer focused on building responsive and modern web applications using React.js, Node.js, Express.js, and MongoDB.
+        </p>
           <div className="social">
           <FaFacebook size={30} style={{color:"#fff", marginRight: "1rem"}}/>
           <FaTwitter size={30} style={{color:"#fff", marginRight: "1rem"}}/>
